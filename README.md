@@ -48,8 +48,7 @@
 This project was inspired by classic storybooks and the desire to combine storytelling with modern web design techniques.
 
 ## 🙌 Contributions
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/LimitlessProgrammer/interactive-storybook/issues).
-
+Contributions, issues, and feature requests are welcome! 
 ## 📝 License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/LimitlessProgrammer/interactive-storybook/blob/main/LICENSE) file for details.
 
