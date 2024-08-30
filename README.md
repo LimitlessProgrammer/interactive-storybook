@@ -42,7 +42,7 @@
 ## 📷 Screenshots
 | Main Page | Chapter 1 | Chapter 2 |
 | --- | --- | --- |
-| ![Main Page](link-to-your-screenshot1.png) | ![Chapter 1](link-to-your-screenshot2.png) | ![Chapter 2](link-to-your-screenshot3.png) |
+| ![Main Page](1.png) | ![Chapter 1](2.png) | ![Chapter 2](3.png) | ![Chapter 3](4.png)
 
 ## 💡 Inspiration
 This project was inspired by classic storybooks and the desire to combine storytelling with modern web design techniques.
