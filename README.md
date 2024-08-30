@@ -50,6 +50,6 @@ This project was inspired by classic storybooks and the desire to combine storyt
 ## 🙌 Contributions
 Contributions, issues, and feature requests are welcome! 
 ## 📝 License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/LimitlessProgrammer/interactive-storybook/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/LimitlessProgrammer/interactive-storybook/blob/main/License) file for details.
 
 ---
