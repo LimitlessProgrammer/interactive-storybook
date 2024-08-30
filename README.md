@@ -3,7 +3,7 @@
 
 # Interactive Storybook
 
-![Storybook Screenshot](link-to-your-image.png)
+![Storybook Screenshot](map.jpg)
 
 **An enchanting and interactive web storybook project built with HTML, CSS, and JavaScript.**
 
